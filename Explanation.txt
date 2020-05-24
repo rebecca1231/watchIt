@@ -1,0 +1,3 @@
+Watch It
+It's functionally similar to nodemon.
+It watches project for changes and restarts when necessary
